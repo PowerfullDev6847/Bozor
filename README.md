@@ -1,0 +1,2 @@
+# Bozor
+My DJango Project
